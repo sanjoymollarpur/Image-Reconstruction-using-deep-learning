@@ -1,4 +1,4 @@
-## Deep Learning Optoacoustic Tomography with Sparse Data
+## Image-Reconstruction-using-deep-learning
 This repository contains a TensorFlow implementation of the paper titled "Deep Learning Optoacoustic Tomography with Sparse Data." The original implementation was provided in Theano by the paper's authors. In this project, we have translated their work to TensorFlow and conducted a comparative analysis.
 
 
@@ -23,3 +23,7 @@ cd your-repo
 
 pip install -r requirements.txt
 
+Reference:
+Davoudi, N., Dean-Ben, X. L., and Razansky, D. (2019). Deep learning optoacoustic
+tomography with sparse data. Nat. Mach. Intell. 1, 453–460. doi: 10.1038/
+s42256-019-0095-3
